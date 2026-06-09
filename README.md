@@ -1,4 +1,4 @@
-# yabuta-sutady
+# yabuta-stady
 藪田の課題取り組み用リポジトリです。
 
 ## 更新履歴
